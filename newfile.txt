@@ -4,3 +4,8 @@ Now, I need to change this file and push it to Github.
 
 ==Changing in Github website==
 I need to pull the changes to my local repository
+
+==This is the answer of question two==
+add: Add file contents to the index; 
+commit: Record changes to the repository; 
+push: Update remote refs along with associated objects
