@@ -1,2 +1,3 @@
 Hello, I`m Eric Wang.
 I`m learning the Github.
+Now, I need to change this file and push it to Github.
